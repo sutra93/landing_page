@@ -1,2 +1,2 @@
 # landing_page
-A clean landing page layout
+A clean mobile friendly responsive landing page layout
